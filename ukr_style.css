@@ -1,0 +1,293 @@
+
+.avatar {
+  margin-left: 20%;
+  border-radius: 100px;
+  height: 150px;
+  width: 150px;
+  border: 3px solid black;
+  box-shadow: 0 0 0px #666;
+  }
+  .ukr {
+    border: 3px solid black;
+    height: 50px;
+    width: 50px;
+    border-radius: 110px;
+  }
+  .ukr img {
+    margin-left: 0px;
+    margin-top: -16PX;
+  }
+  .avatar_text {
+    margin-left: 23%;
+    font-size: 20px;
+    font-family: time new roman;
+  }
+  .avatar_text_2 {
+    margin-left: 21%;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: arial;
+    margin-top: -20px;
+  }
+  .avatar_text_3 {
+    font-size: 15px;
+    font-family: time new roman;
+    margin-top: -30px;
+    margin-left: 20%;
+  }
+.right {
+  position: absolute; top: 40px; 
+}
+  .education {
+  height: 75px;
+  padding-left: 700px;
+}
+.education_text {
+  margin-left: 800px;
+  font-weight: bold;
+  font-family: arial;
+  font-size: 35px;
+  margin-top: -80px;
+}
+.education_text_1 {
+  margin-left: 600px;
+  position: relative; top: -25px; left: 15%;
+  font-size: 20px;
+  font-family: arial;
+  font-weight: bold;
+}
+.education_text_2 {
+  margin-left: 970px;
+  position: relative; top: -50px; 
+  font-size: 20px;
+}
+.black_1 {
+  position: relative; top: 23px; left: 700px;
+  color: black;
+  font-size: 400%;
+
+}
+.college {
+
+ position: relative; top: -55px; left: 750px;
+ font-family: time new roman;
+ font-size: 19px;
+}
+.hr4 {
+ margin-right: 20px;
+ width: 340px;
+ margin-left: 960px;
+ margin-top: -25px;
+}
+.experience {
+  height: 75px;
+  padding-left: 700px;
+}
+.experience_text {
+  margin-left: 800px;
+  font-weight: bold;
+  font-family: arial;
+  font-size: 35px;
+  margin-top: -80px;
+}
+.experience_text_1 {
+  margin-left: 600px;
+  position: relative; top: -25px; left: 15%;
+  font-size: 20px;
+  font-family: arial;
+  font-weight: bold;
+}
+.experience_text_2 {
+  margin-left: 1000px;
+  position: relative;top: -50px;
+  font-size: 20px;
+}
+.job { margin-left: 790px;
+ position: relative; top: -25px;
+ font-family: arial;
+ font-weight: bold;
+
+}
+.hr5 {
+ margin-right: -10px;
+ width: 350px;
+ margin-left: 950px;
+ margin-top: -25px;
+}
+h2{
+  margin-bottom: -30px;
+  margin-top: -30px;
+  margin-left: 50px;
+}
+font {
+  margin-left: 85px;
+
+}
+h5 {
+  margin-left: 60px;
+}
+
+.profile {
+ height: 75px;
+ width: auto;
+ margin-bottom: -30px;
+}
+.profile_text {
+  margin-left: auto;
+}
+.hr1 {
+ margin-left: 250px;
+ margin-top: -40px;
+ width: 400px;
+}
+.text_1 {
+  margin-left:50px;
+  font-size: 18px;
+  font-family: time new roman;
+}
+
+.contact {
+ height: 75px;
+ width: auto;
+ margin-bottom: -30px;
+}
+
+.contact_text {
+  margin-left: auto;
+}
+.hr2 {
+ margin-left: 270px;
+ margin-top: -40px;
+ width: 390px;
+}
+
+.skills {
+ height: 75px;
+ width: auto;
+ margin-bottom: -30px;
+}
+
+.skills_text {
+  margin-left: auto;
+}
+.hr3 {
+ margin-left: 270px;
+ margin-top: -40px;
+ width: 390px;
+}
+.black {
+  color: black;
+  font-size: 400%;
+}
+.silver {
+  color: silver;
+  font-size: 400%;  
+} 
+.CREATIVE {
+ padding-left: 150px;
+ color: black;
+ font-size: 150%;
+}
+.COMMUNICATION {
+  padding-left: 120px;
+  color: black;
+  font-size: 150%;
+}
+.TEAMWORK {
+  padding-left: 100px;
+  color: black;
+  font-size: 150%;
+}
+.INNOVATE {
+  padding-left: 130px;
+  color: black;
+  font-size: 150%;
+}
+
+.software {
+  height: 75px;
+  padding-left: 700px;
+}
+.software_text {
+    margin-left: 800px;
+  font-weight: bold;
+  font-family: arial;
+  font-size: 35px;
+  margin-top: -80px;
+}
+.hr6 {
+   margin-right: 10px;
+ width: 120px;
+ margin-left: 1170px;
+ margin-top: -25px;
+}
+.s_text {
+  margin-left: 700px;
+  margin-top: 100px;
+  font-size: 20px;  
+}
+.hr_2 {
+  width: 200px;
+  margin-left: 730px;
+  margin-top: 5px;
+}
+.hr_1 {
+  width: 200px;
+  margin-left: 700px;
+  margin-top: -28px;
+}
+.hr_3 {
+  width: 200px;
+  margin-left: 730px;
+  margin-top: 5px;
+}
+.hr_4 {
+  width: 150px;
+  margin-left: 700px;
+  margin-top: -28px;
+}
+.hr_5 {
+  width: 200px;
+  margin-left: 730px;
+  margin-top: 5px;
+}
+.hr_6 {
+  width: 120px;
+  margin-left: 700px;
+  margin-top: -28px;
+}
+.s_text_2 {
+  margin-left: 1000px;
+  margin-top: -204px;
+  font-size: 20px;  
+}
+.hr_7 {
+  width: 200px;
+  margin-left: 1030px;
+  margin-top: 5px;
+}
+.hr_8 {
+  width: 180px;
+  margin-left: 1000px;
+  margin-top: -28px;
+}
+.hr_9 {
+  width: 200px;
+  margin-left: 1030px;
+  margin-top: 5px;
+}
+.hr_10 {
+  width: 150px;
+  margin-left: 1000px;
+  margin-top: -28px;
+}
+.hr_11 {
+  width: 200px;
+  margin-left: 1030px;
+  margin-top: 5px;
+}
+.hr_12 {
+  width: 220px;
+  margin-left: 1000px;
+  margin-top: -28px;
+
